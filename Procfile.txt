@@ -1,1 +1,1 @@
-dasencios50calculadora-1.0-SNAPSHOT.war
+web: java -jar dasencios50calculadora-1.0-SNAPSHOT.war
