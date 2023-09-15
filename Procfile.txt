@@ -1,2 +1,3 @@
-web: java -jar target/calculadora-interes-app.jar
+
+web: java -Dwebapp.url=https://calculadora-interes-app-34fa6026c37f.herokuapp.com -jar your-web-app.jar
 
